@@ -1,0 +1,4 @@
+.autofill-text{
+    -fx-skin:"autocomplete.AutoFillTextBoxSkin";
+}
+
