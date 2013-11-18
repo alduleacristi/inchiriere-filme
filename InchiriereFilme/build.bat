@@ -1,2 +1,2 @@
-cd C:\Users\Cristi\Desktop\InchiriereFilme
-mvn clean package assembly:single
+cd C:\Users\Cristi\Desktop\inchiriere-filme\InchiriereFilme
+mvn package assembly:single
